@@ -1,5 +1,5 @@
-# Bug-Prediction-Model
-Bug classification and similar bug retrieval using machine learning
+# bug-blaster
+Bug classification and similar bug retrieval through JIRA tickets.
 
 **Background:**
 Software deveopement teams often encounter numerous bugs during the develpment and maintenance phases. Identifying the types of bugs and efficiently resolving them is crucial for the delivering high-quality software. Manual bug classification and searching for solutions from the existing tickets can be time consuming and error prone.
